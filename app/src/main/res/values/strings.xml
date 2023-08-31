@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CinemaApp</string>
+
+
+    <string name="email"> Adresa de e-mail</string>
+    <string name="parola"> Parola</string>
+    <string name="parola2"> Rescrie parola</string>
+    <string name="conectare">Conectare</string>
+    <string name="inscriere2">Inscriere</string>
+    <string name="uitat">Ai uitat detaliile de conectare?</string>
+    <string name="conectareFb">Conectare cu Facebook</string>
+    <string name="inscriereFb">Inscriere cu Facebook</string>
+    <string name="sau">SAU</string>
+    <string name="nuCont">Nu ai cont?</string>
+    <string name="daCont">Ai deja cont?</string>
+    <string name="inscriere">Inscrie-te.</string>
+    <string name="conectare2">Conecteaza-te.</string>
+    <string name="ajutor">Primeste ajutor pentru conectare.</string>
+
+    <string name="cauta">Cautare</string>
+    <string name="editare">Editare profil</string>
+    <string name="favorite">Favorite</string>
+    <string name="recente">Vizualizate recent</string>
+    <string name="prieteni">Prieteni</string>
+    <string name="magazine">Gaseste magazin</string>
+    <string name="rating">Evaluare aplicatie</string>
+    <string name="logOut">Deconectare</string>
+
+
+</resources>
