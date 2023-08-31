@@ -10,9 +10,9 @@ Mobile app about the movies at the Romanian cinemas and also those broadcasted b
 programmes.
 
   The user benefits from the following features:
-    • uses Google Maps APIs to allow finding and viewing routes and directions to specific
+  - uses Google Maps APIs to allow finding and viewing routes and directions to specific
 cinemas
-    • allows viewing TV programme and cinema screening schedule for the desired time
+  - allows viewing TV programme and cinema screening schedule for the desired time
 period
     • offers complete information about movies
     • latest news in cinematography, list of awards and nominations, tops, etc.
