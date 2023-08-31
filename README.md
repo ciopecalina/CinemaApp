@@ -1,5 +1,5 @@
 # CinemaApp
-Android Mobile solution dedicated to movies
+Bachelor’s Thesis - “Mobile Solution dedicated to movies”
 
   The Android mobile application, using web scraping method, is based on the idea of
 collecting and gathering in a single place as much as possible substantial information on
